@@ -348,6 +348,7 @@
 			children = (
 				3C8CD0FC14DF64B300F18DE6 /* RegexKitLite */,
 				3C0BB03314DF3D55004A90E8 /* Fountain */,
+				3CBFF73915940793005EC5BF /* Sample Project */,
 				3C0BB05014DF3D56004A90E8 /* FountainTests */,
 				3CBFF73915940793005EC5BF /* Sample Project Mac */,
 				149D633317EA93E200DA482C /* Sample Project iOS */,
